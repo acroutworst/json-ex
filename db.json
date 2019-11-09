@@ -1,0 +1,30 @@
+{ 
+   "merchantName":"Safeway",
+   "zipCode":"98101",
+   "merchantInfo":{ 
+      "merchantLocation":[ 
+         { 
+            "locationId":"locationId101",
+            "storePhoneNumber":"4254254242",
+            "locationDescription":"Locations Desc",
+            "locationCategories":[ 
+               { 
+                  "name":"Bakery",
+                  "imageURL":"empty"
+               }
+            ],
+            "storeHours":{ 
+               "hours":"9:00-12:00",
+               "dayOfWeek":"Monday"
+            },
+            "address":"Address 101"
+         }
+      ],
+      "merchantDetails":{ 
+         "merchantName":"Safeway",
+         "merchantPhoneNumber":"4254254242",
+         "merchantId":"101",
+         "merchantDescription":"Merchant Desc"
+      }
+   }
+}
